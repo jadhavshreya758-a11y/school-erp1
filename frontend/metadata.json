@@ -1,0 +1,6 @@
+{
+  "name": "SchoolERP",
+  "description": "Clean, responsive school management web application for small schools, play schools, and academies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
